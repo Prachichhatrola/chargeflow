@@ -1,0 +1,81 @@
+/* Hero & scroll text reveal – SplitText line overflow */
+.line {
+  overflow: hidden;
+}
+
+/* Marquee horizontal track */
+@keyframes marquee-horizontal {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.cc-track-horizontal_1,
+[marquee-horizontal] {
+  white-space: nowrap;
+  will-change: transform;
+  animation: marquee-horizontal 75s linear infinite;
+}
+
+.cc-track-horizontal_2,
+[marquee-horizontal-reverse] {
+  white-space: nowrap;
+  will-change: transform;
+  animation: marquee-horizontal-reverse 30.02s linear infinite;
+}
+
+.cc-track-horizontal_3,
+[marquee-horizontal='45'] {
+  white-space: nowrap;
+  will-change: transform;
+  animation: marquee-horizontal 32.02s linear infinite;
+}
+
+@keyframes marquee-horizontal-reverse {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+.edit-mode [class*=' cc-track-horizontal'],
+.edit-mode [class^='cc-track-horizontal'] {
+  animation: none;
+}
+
+/* Sonar button border rotation */
+@property --angle {
+  syntax: '<angle>';
+  initial-value: 0.0001deg;
+  inherits: true;
+}
+
+@keyframes borderRotate {
+  0% {
+    --angle: 0.0001deg;
+  }
+  100% {
+    --angle: 360deg;
+  }
+}
+
+/* Banner glare overlay */
+.light-glare {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 2;
+}
+
+/* Lottie fade-in once loaded */
+.lottie-loaded [data-animation-type='lottie'][data-autoplay='1'] {
+  opacity: 1 !important;
+}

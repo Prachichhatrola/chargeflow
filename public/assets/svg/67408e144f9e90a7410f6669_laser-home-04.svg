@@ -1,0 +1,20 @@
+<svg width="100%" height="100%" viewBox="0 0 1164 331" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="laser-home-04">
+<path id="02" d="M1120 329V111C1120 99.9543 1111.05 91 1100 91H594C588.477 91 584 95.4772 584 101V127.593" stroke="url(#paint0_linear_4194_29889)" stroke-dasharray="1.83 1.83"/>
+<path id="01" d="M46 329.5V111.389C46 100.343 54.9543 91.389 66 91.389H572C577.523 91.389 582 86.9119 582 81.389V4.5" stroke="url(#paint1_linear_4194_29889)" stroke-dasharray="1.83 1.83"/>
+<g id="avoid">
+<path id="diamond" d="M582 5.99951L579 2.99951L582 0L585 2.99951L582 5.99951Z" fill="#97A3B6"/>
+<path id="diamond_2" d="M584 131L581 128L584 125L587 128L584 131Z" fill="#97A3B6"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_4194_29889" x1="876.089" y1="91" x2="876.089" y2="329" gradientUnits="userSpaceOnUse">
+<stop stop-color="#97A3B6"/>
+<stop offset="1" stop-color="#97A3B6" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_4194_29889" x1="289.911" y1="4.5" x2="289.911" y2="329.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#97A3B6"/>
+<stop offset="1" stop-color="#97A3B6" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

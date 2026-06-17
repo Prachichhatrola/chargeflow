@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Chargeflow';
+  src: url('/assets/fonts/66eb2532b2724b9d25199fea_font.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Helvetica Now';
+  src: url('/assets/fonts/66eb260113a3f6efa8c6ba19_HelveticaNow400.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Degular Display';
+  src: url('/assets/fonts/66eb26014a8c78155bfce7a2_DegularDisplay500.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Degular Display';
+  src: url('/assets/fonts/66eb260172eef63357ee352d_DegularDisplay400.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Helvetica Now';
+  src: url('/assets/fonts/66eb2601a3e892a7ceda821d_HelveticaNow500.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Degular Display';
+  src: url('/assets/fonts/66eb260351ffcb8347afb286_DegularDisplay700.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

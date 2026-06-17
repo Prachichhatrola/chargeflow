@@ -1,0 +1,15 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3" y="16" width="74" height="48" rx="6" stroke="#D4D9FF" stroke-width="2" stroke-linecap="round"/>
+<rect x="37" y="8" width="6" height="12" rx="1" fill="white" stroke="#3448FF" stroke-width="2" stroke-linecap="round"/>
+<rect x="53.4019" y="10.7872" width="6" height="12" rx="1" transform="rotate(30 53.4019 10.7872)" fill="white" stroke="#E2E5FF" stroke-width="2" stroke-linecap="round"/>
+<rect x="66.2131" y="21.4025" width="6" height="12" rx="1" transform="rotate(60 66.2131 21.4025)" fill="white" stroke="#D4D9FF" stroke-width="2" stroke-linecap="round"/>
+<rect x="72" y="37" width="6" height="12" rx="1" transform="rotate(90 72 37)" fill="white" stroke="#B2B9FC" stroke-width="2" stroke-linecap="round"/>
+<rect x="69.2129" y="53.402" width="6" height="12" rx="1" transform="rotate(120 69.2129 53.402)" fill="white" stroke="#8E99FF" stroke-width="2" stroke-linecap="round"/>
+<rect x="58.5964" y="66.2123" width="6" height="12" rx="1" transform="rotate(150 58.5964 66.2123)" fill="white" stroke="#3448FF" stroke-width="2" stroke-linecap="round"/>
+<rect x="37" y="60" width="6" height="12" rx="1" fill="white" stroke="#3448FF" stroke-width="2" stroke-linecap="round"/>
+<rect x="27.4019" y="55.8206" width="6" height="12" rx="1" transform="rotate(30 27.4019 55.8206)" fill="white" stroke="#E2E5FF" stroke-width="2" stroke-linecap="round"/>
+<rect x="21.1797" y="47.4026" width="6" height="12" rx="1" transform="rotate(60 21.1797 47.4026)" fill="white" stroke="#D4D9FF" stroke-width="2" stroke-linecap="round"/>
+<rect x="20" y="37" width="6" height="12" rx="1" transform="rotate(90 20 37)" fill="white" stroke="#B2B9FC" stroke-width="2" stroke-linecap="round"/>
+<rect x="24.1794" y="27.402" width="6" height="12" rx="1" transform="rotate(120 24.1794 27.402)" fill="white" stroke="#8E99FF" stroke-width="2" stroke-linecap="round"/>
+<rect x="32.5981" y="21.1799" width="6" height="12" rx="1" transform="rotate(150 32.5981 21.1799)" fill="white" stroke="#3448FF" stroke-width="2" stroke-linecap="round"/>
+</svg>

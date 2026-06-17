@@ -1,0 +1,14 @@
+<svg width="100%" height="100%" viewBox="0 0 141 366" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="laser-home-02">
+<path id="01" d="M138 3V354C138 359.523 133.523 364 128 364H0" stroke="url(#paint0_linear_4194_29908)" stroke-dasharray="1.83 1.83"/>
+<g id="avoid">
+<path id="diamond" d="M138 5.99976L135 2.99976L138 0.000244141L141 2.99976L138 5.99976Z" fill="#374254"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_4194_29908" x1="138" y1="364" x2="-8.36896e-06" y2="364" gradientUnits="userSpaceOnUse">
+<stop stop-color="#364153"/>
+<stop offset="1" stop-color="#364153" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
